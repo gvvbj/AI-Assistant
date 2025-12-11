@@ -13,7 +13,6 @@
 - **🔌 MCP Integration**: 支持 [Model Context Protocol](https://modelcontextprotocol.io/)，可无缝扩展外部工具（如 SQLite, Google Maps 等）。
 - **🛡️ Docker Sandbox**: Python 代码解释器运行在 Docker 容器中，安全隔离，支持文件生成与绘图。
 - **📚 RAG Knowledge Base**: 支持 PDF/Excel/Txt 等多格式文档索引与检索。
-- **🔍 Web Search**: 集成联网搜索能力。
 
 ## 🛠️ Installation (安装指南)
 
@@ -62,4 +61,5 @@
 ---
 
 *Built with ❤️ by a Python Learner & AI*
+
 
