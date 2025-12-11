@@ -39,9 +39,12 @@
 
 3. Build the Docker Sandbox (Required for Code Interpreter):
    (构建 Docker 沙箱环境，代码解释器功能必选)
+   ```bash
    docker build -t ai-sandbox:latest .
+   ```
+4. 解压models里面压缩包
 
-4. Run the application:
+5. Run the application:
    ```bash
    streamlit run app.py
    ```
@@ -57,4 +60,5 @@
 此项目主要用于学习与演示。虽然包含加密与沙箱机制，但在生产环境使用前请进行更严格的安全审计。
 
 ---
+
 *Built with ❤️ by a Python Learner & AI*
