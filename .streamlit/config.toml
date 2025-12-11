@@ -1,0 +1,7 @@
+[browser]
+gatherUsageStats = false  # 关闭数据收集
+serverAddress = "localhost"
+
+[server]
+headless = true
+port = 8501
