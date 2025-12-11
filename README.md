@@ -28,8 +28,8 @@
 
 1. Clone the repository:
    ```bash
-   
-   cd AI-Assistant-Pro
+   git clone https://github.com/gvvbj/AI-Assistant.git
+   cd AI-Assistant
    ```
 
 2. Install dependencies:
@@ -62,3 +62,4 @@
 ---
 
 *Built with ❤️ by a Python Learner & AI*
+
