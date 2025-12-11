@@ -1,0 +1,11 @@
+streamlit
+ollama
+openai
+chromadb
+pypdf
+python-docx
+openpyxl
+docker
+cryptography
+mcp
+uvx
